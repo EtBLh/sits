@@ -1,0 +1,13 @@
+.desk{
+    position: absolute;
+    padding: .3rem;
+    background-color: steelblue;
+    color: black;
+    .human{
+        display: inline-block;
+        margin: .2rem .1rem;
+        width: 150px;
+        height: 2rem;
+        border: 1px grey solid;
+    }
+}
